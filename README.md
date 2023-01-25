@@ -1,1 +1,1 @@
-# Copunder-Assignment
+# It is a scraper that extracts detailed data about every product listed from a shoes selling website(Copunder), The dataset can be viewed [here](https://github.com/harshhes/Copunder-Assignment/blob/main/dataset.csv)
